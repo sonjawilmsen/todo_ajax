@@ -1,3 +1,4 @@
 == README
 
-This to do was built to learn how to work with ruby on rails, jQuery and Ajax. It really gave me a good idea of a complete interactive Ruby on Rails app.
+
+This to do was built to learn how to work with ruby on rails, jQuery and Ajax. I build it in the 3rd week of the Codaisseur programm. It really gave me a good idea of a complete interactive Ruby on Rails app. It gave me the feeling of a good grasp on ruby on rails and the possibilties of interacting with the Front end using languages such as jQuery and AJAX.
